@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Abdur Rahman Molla 👋
 
-<!--
-**abdurrahmanmolla666-prog/abdurrahmanmolla666-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI-Powered Future Ready Web Developer** currently mastering the MERN stack at **Programming Hero**. I love building modern, performant, and user-centric web applications.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on:
+- 🔭 Mastering Advanced Web Development.
+- ⚡ Future-ready AI integrations in web apps.
+- 🌱 Currently learning: **Next.js** & **Advanced React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- **Languages:** JavaScript (ES6+)
+- **Frontend:** React.js, Next.js, Tailwind CSS
+- **Backend/Database:** Exploring Node.js & MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+### 📫 How to reach me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) (Update this link!)
+- 📧 [Email](mailto:your-email@example.com) (Update this link!)
+
+---
+*Generated with ❤️ by Farzu (Your AI Wingman)*
