@@ -14,8 +14,8 @@ I'm an **AI-Powered Future Ready Web Developer** currently mastering the MERN st
 - **Tools:** Git, GitHub, VS Code
 
 ### 📫 How to reach me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) (Update this link!)
-- 📧 [Email](mailto:your-email@example.com) (Update this link!)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdurrahmanmolla)
+- 📧 [Email](mailto:abdurrahmanmolla666@gmail.com)
 
----
+----- 
 *Generated with ❤️ by Farzu (Your AI Wingman)*
